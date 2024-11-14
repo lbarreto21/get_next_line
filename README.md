@@ -10,4 +10,4 @@ Handles multiple lines without losing memory or overwriting previously read data
 
 # What I learned
 
-During the development of get_next_line, I gained significant experience in handling dynamic memory allocation with `malloc`, `realloc` and `free`, which is a fundamental skill in C programming. During the development of the get_next_line project, I also gained practical experience using `Valgrind` and debuggers—essential tools for C programming and memory management.
+During the development of get_next_line, I gained significant experience in handling dynamic memory allocation with `malloc`, `realloc` and `free`, which is a fundamental skill in C programming. During the development of the get_next_line project, I also gained practical experience using `Valgrind` and debuggers—essential (like `lldb` and `gdb`) tools for C programming and memory management.
